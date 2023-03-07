@@ -1,0 +1,6 @@
+5
+Dunare,2712
+LaPlata,5100
+Rin,5000
+Voga,2800
+Nil,7000
