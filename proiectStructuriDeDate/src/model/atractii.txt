@@ -1,0 +1,7 @@
+Lac 12 10
+Castel 11 9
+Oras 15 2
+Cetate 7 15
+Casa 1 13
+Parc1 7 5
+Parc2 10 12
