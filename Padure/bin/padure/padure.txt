@@ -1,0 +1,11 @@
+New_Guinea 545000
+Hoia 3
+Primorye 130000
+Amazonian 5500000
+Congolese 1780000
+Valdivian 248100
+Borneo 290000
+Canadian 4200000
+Norwegian 2156000
+Burmese 233000
+Siberian 3900000
