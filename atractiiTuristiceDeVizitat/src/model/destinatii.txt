@@ -1,0 +1,7 @@
+Lac 10 13
+Munte1 16 20
+Mare 7 40
+Campie 100 32
+Castel 90 50
+Munte2 7 15
+Lac2 45 67
