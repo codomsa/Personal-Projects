@@ -2,9 +2,9 @@
 
 Fiecare student își alege o problemă. Folosiți arhitectură stratificată cu domain, UI, service, repository. Tema se întinde pe 3 săptămâni (3 iterații).
 
-1. Prima iterație (săptămâna 3): toate funcționalitățile CRUD, interfață de consolă, excepții. 
-2. A doua iterație (săptămâna 4): minim 2 funcționalități non-CRUD, repository generic.
-3. A treia iterație (săptămâna 5): toate funcționalitățile, test coverage de minim 90%, validări folosind clase proprii de excepții.  
+1. Prima iterație: toate funcționalitățile CRUD, interfață de consolă, excepții. 
+2. A doua iterație: minim 2 funcționalități non-CRUD, repository generic. - currently here
+3. A treia iterație: toate funcționalitățile, test coverage de minim 90%, validări folosind clase proprii de excepții.  
 
 ---
 
